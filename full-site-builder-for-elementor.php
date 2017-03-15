@@ -21,6 +21,9 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * GNU General Public License for more details.
  *
+ * GitHub Plugin URI: https://github.com/pingram3541/stylepress
+ * GitHub Branch:     master
+ *
  * @package dtbaker-elementor
  */
 
